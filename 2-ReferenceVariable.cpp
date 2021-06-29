@@ -17,7 +17,7 @@ a=45;
 
 float &v=a;
 
-cout<<v<<endl;
+cout<<setw(9)<<v<<endl;
 
 // *************** Float, double and long double Literals *********************
 
